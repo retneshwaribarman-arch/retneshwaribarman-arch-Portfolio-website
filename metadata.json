@@ -1,0 +1,6 @@
+{
+  "name": "HAMANTA Portfolio & Studio",
+  "description": "Minimal, elegant photography portfolio with client gallery, lightbox, and password-protected admin studio for Hamanta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

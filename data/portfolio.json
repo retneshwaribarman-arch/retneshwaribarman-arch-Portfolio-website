@@ -1,0 +1,238 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "password123"
+  },
+  "categories": [
+    "All",
+    "Editorial",
+    "Portraits",
+    "Architecture",
+    "Landscapes",
+    "Street"
+  ],
+  "about": {
+    "name": "HAMANTA",
+    "title": "Visual Artist & Editorial Photographer",
+    "portraitUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1000&q=80",
+    "location": "Berlin & New York / Available Worldwide",
+    "yearsExperience": 9,
+    "exhibitionsCount": 14,
+    "awardsCount": 6,
+    "philosophy": "My work explores the fragile intersections of architectural geometry, quiet human intimacy, and natural luminescence. Capturing moments not as they look, but as they felt in the stillness.",
+    "bio": [
+      "Hamanta is an internationally published documentary and fine art photographer based between Berlin and New York. Trained in classical darkroom printmaking and contemporary digital aesthetics, his imagery focuses on understated mood, brutalist architecture, and cinematic character studies.",
+      "His visual essays have been featured in Kinfolk, Cereal Magazine, Architectural Digest, and The New York Times Style Magazine. He frequently travels on assignment for cultural institutions and architectural practices."
+    ],
+    "clients": [
+      "Vogue Scandinavia",
+      "Architectural Digest",
+      "Kinfolk Magazine",
+      "Aesop",
+      "BMW Designworks",
+      "Studio David Thulstrup"
+    ]
+  },
+  "contact": {
+    "email": "retneshwaribarman@gmail.com",
+    "phone": "+91 80996 84683",
+    "whatsapp": "+918099684683",
+    "instagram": "@hamanta.photo",
+    "location": "Studio / Available for assignments",
+    "bookingNotice": "Currently accepting bookings for Q2/Q3 editorial assignments, private portraits, and monographs.",
+    "availability": "Available for commissions"
+  },
+  "photos": [
+    {
+      "id": "photo-1",
+      "title": "Monolith in Fog",
+      "description": "Morning marine layer over concrete cantilever in Reykjanes Peninsula, Iceland.",
+      "category": "Architecture",
+      "tags": [
+        "Brutalism",
+        "Iceland",
+        "Minimal",
+        "Monochrome"
+      ],
+      "url": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=75",
+      "aspectRatio": "landscape",
+      "date": "2025-11-12",
+      "camera": "Leica SL2",
+      "lens": "Summilux-SL 50mm f/1.4",
+      "client": "Bauhaus Archival Society",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "photo-2",
+      "title": "Solitude in Ochre",
+      "description": "Natural light portrait studies exploring warm amber tones and textured wool in an abandoned textile mill.",
+      "category": "Portraits",
+      "tags": [
+        "Portrait",
+        "Editorial",
+        "Natural Light"
+      ],
+      "url": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=600&q=75",
+      "aspectRatio": "portrait",
+      "date": "2026-02-14",
+      "camera": "Hasselblad X2D 100C",
+      "lens": "XCD 80mm f/1.9",
+      "client": "Nørr Magazine",
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": "photo-3",
+      "title": "Geometry of Light",
+      "description": "Shadow lines intersecting concrete arches at the Centre Pompidou-Metz, France.",
+      "category": "Architecture",
+      "tags": [
+        "Geometry",
+        "Shadow",
+        "Lines",
+        "Metz"
+      ],
+      "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&q=75",
+      "aspectRatio": "landscape",
+      "date": "2025-08-20",
+      "camera": "Sony A7R V",
+      "lens": "FE 24-70mm f/2.8 GM II",
+      "client": "Studio Architects",
+      "featured": false,
+      "order": 3
+    },
+    {
+      "id": "photo-4",
+      "title": "Nocturne in Kyoto",
+      "description": "Rain reflections and lantern glow in Gion alleyway before dawn.",
+      "category": "Street",
+      "tags": [
+        "Kyoto",
+        "Japan",
+        "Rain",
+        "Night",
+        "Atmosphere"
+      ],
+      "url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=600&q=75",
+      "aspectRatio": "portrait",
+      "date": "2025-10-04",
+      "camera": "Fujifilm GFX 100 II",
+      "lens": "GF 45mm f/2.8 R WR",
+      "client": "Wanderlust Quarterly",
+      "featured": true,
+      "order": 4
+    },
+    {
+      "id": "photo-5",
+      "title": "The Linen Series: Study IV",
+      "description": "High-fashion editorial capture focusing on organic textures and draping silhouette.",
+      "category": "Editorial",
+      "tags": [
+        "Fashion",
+        "Minimal",
+        "Linen",
+        "Studio"
+      ],
+      "url": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=600&q=75",
+      "aspectRatio": "landscape",
+      "date": "2026-01-22",
+      "camera": "Hasselblad 907X",
+      "lens": "XCD 65mm f/2.8",
+      "client": "Vogue Scandinavia",
+      "featured": true,
+      "order": 5
+    },
+    {
+      "id": "photo-6",
+      "title": "High Sierra Alpine Dusk",
+      "description": "Last amber rays illuminating granite peaks above Thousand Island Lake at 9,800 feet.",
+      "category": "Landscapes",
+      "tags": [
+        "Mountains",
+        "California",
+        "Wilderness",
+        "Golden Hour"
+      ],
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=600&q=75",
+      "aspectRatio": "landscape",
+      "date": "2025-09-17",
+      "camera": "Leica Q3",
+      "lens": "Summilux 28mm f/1.7 ASPH",
+      "client": "National Geographic Traveler",
+      "featured": true,
+      "order": 6
+    },
+    {
+      "id": "photo-7",
+      "title": "Shadow Silhouette & Glass",
+      "description": "Chiaroscuro self-portrait study through rippled cathedral glass.",
+      "category": "Portraits",
+      "tags": [
+        "Chiaroscuro",
+        "Glass",
+        "Experimental",
+        "Shadows"
+      ],
+      "url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=600&q=75",
+      "aspectRatio": "portrait",
+      "date": "2025-12-05",
+      "camera": "Leica M11-P",
+      "lens": "Noctilux-M 50mm f/0.95",
+      "client": "Personal Exhibition",
+      "featured": false,
+      "order": 7
+    },
+    {
+      "id": "photo-8",
+      "title": "Bermondsey Morning Rush",
+      "description": "Slow shutter study of commuters moving through Victorian brick viaducts in London.",
+      "category": "Street",
+      "tags": [
+        "London",
+        "Motion Blur",
+        "Street",
+        "Architecture"
+      ],
+      "url": "https://images.unsplash.com/photo-1477959858617-67f30bc75b82?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1477959858617-67f30bc75b82?auto=format&fit=crop&w=600&q=75",
+      "aspectRatio": "landscape",
+      "date": "2026-03-01",
+      "camera": "Ricoh GR IIIx",
+      "lens": "40mm F2.8 GR Lens",
+      "client": "British Journal of Photography",
+      "featured": false,
+      "order": 8
+    },
+    {
+      "id": "photo-9",
+      "title": "Atelier de Céramique",
+      "description": "Artisan hands shaping porcelain vessel on the wheel in Montmartre, Paris.",
+      "category": "Editorial",
+      "tags": [
+        "Craft",
+        "Artisan",
+        "Paris",
+        "Clay",
+        "Editorial"
+      ],
+      "url": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=600&q=75",
+      "aspectRatio": "portrait",
+      "date": "2026-01-10",
+      "camera": "Canon EOS R5",
+      "lens": "RF 50mm f/1.2 L USM",
+      "client": "Ceramique Review",
+      "featured": true,
+      "order": 9
+    }
+  ],
+  "messages": []
+}
